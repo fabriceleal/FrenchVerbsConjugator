@@ -98,9 +98,11 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+;; TODO: ....
 (defmacro irregular-hardcoded [full-list persons]
   ())
 
+;; TODO: ...
 (defmacro irregular-with-terminations [verb ending-length terminations persons]
   ())
 
